@@ -1,13 +1,13 @@
-# VIT-Grade-Guru
-Link To Website: [VIT-Grade-Guru](https://vit-grade-guru.netlify.app/)
+# NIET-Grade-Guru
+Link To Website: [NIET-Grade-Guru](https://niet-grade-guru.vercel.app/)
 
-VIT Grade Guru is a web-based platform designed to simplify the calculation of GPA, CGPA, and predict the GPA required for achieving a 9-pointer at Vellore Institute of Technology. The platform follows the grading system implemented at VIT, ensuring accurate and institution-specific calculations.
+NIET Grade Guru is a web-based platform designed to simplify the calculation of SGPA, CGPA, and predict the SGPA required for achieving a 9-pointer at Noida Institute of Engineering and Technology. The platform follows the grading system implemented at NIET, ensuring accurate and institution-specific calculations.
 
 ## Features
 
-- GPA and CGPA Calculation: Easily calculate GPA and CGPA using the provided tools, tailored to VIT's grading system.
-- Predictive GPA: Get insights into the GPA required to attain a 9-pointer, helping students set academic goals.
-- Formula Reference: The website includes the formula used for GPA calculation at VIT, providing transparency and reference for users.
+- SGPA and CGPA Calculation: Easily calculate GPA and CGPA using the provided tools, tailored to NIET's grading system.
+- Predictive SGPA: Get insights into the SGPA required to attain a 9-pointer, helping students set academic goals.
+- Formula Reference: The website includes the formula used for SGPA calculation at NIET, providing transparency and reference for users.
 - Issue Reporting: A dedicated page allows users to report any issues encountered while using the platform, facilitating continuous improvement.
 
 ## User Experience
@@ -29,4 +29,4 @@ Building this website has provided an opportunity to reinforce knowledge in Reac
 - react-toastify: Implement notifications for a better user experience.
 - useState: Leverage state management to create dynamic and interactive components.
 
-Explore VIT Grade Guru to streamline GPA calculations and enhance the academic planning experience!
+Explore NIET Grade Guru to streamline SGPA calculations and enhance the academic planning experience!
