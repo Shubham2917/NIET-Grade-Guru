@@ -5,7 +5,7 @@ NIET Grade Guru is a web-based platform designed to simplify the calculation of 
 
 ## Features
 
-- SGPA and CGPA Calculation: Easily calculate GPA and CGPA using the provided tools, tailored to NIET's grading system.
+- SGPA and GPA Calculation: Easily calculate GPA and CGPA using the provided tools, tailored to NIET's grading system.
 - Predictive SGPA: Get insights into the SGPA required to attain a 9-pointer, helping students set academic goals.
 - Formula Reference: The website includes the formula used for SGPA calculation at NIET, providing transparency and reference for users.
 - Issue Reporting: A dedicated page allows users to report any issues encountered while using the platform, facilitating continuous improvement.
