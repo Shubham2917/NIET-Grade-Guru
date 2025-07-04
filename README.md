@@ -1,7 +1,7 @@
 # NIET-Grade-Guru
 Link To Website: [NIET-Grade-Guru] (https://niet-grade-guru.vercel.app/)
 
-NIET Grade Guru is a web-based platform designed to simplify the calculation of GPA, cGPA, and predict the SGPA required for achieving a 9-pointer at Noida Institute of Engineering and Technology. The platform follows the grading system implemented at NIET, ensuring accurate and institution-specific calculations.
+NIET Grade Guru is a web-based platform designed to simplify the calculation of GPA, CGPA, and predict the SGPA required for achieving a 9-pointer at Noida Institute of Engineering and Technology. The platform follows the grading system implemented at NIET, ensuring accurate and institution-specific calculations.
 
 ## Features
 
